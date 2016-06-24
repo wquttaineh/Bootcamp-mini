@@ -1,0 +1,18 @@
+
+.apple-description {
+	font-family: "Georgia",Times New Roman,Times,serif;
+    border-color: red;
+    border-width: thick;
+    border-style: solid;
+    margin-bottom: 50px;
+    background-color: blue;
+}
+​
+#granny-smith {
+	background-color: #a8e4a0 ;
+	font-size: 20px;
+}
+​
+#red-delicious {
+	background-color: #d90735 ; 
+}
